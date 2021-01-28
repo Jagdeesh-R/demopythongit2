@@ -1,0 +1,21 @@
+git --version
+git config --global user.name "yourname"
+git config --global user.email yourmailid
+git config --list
+git config user.name
+git config user.email
+
+ls
+cd
+git init
+git remote add origin <gitLink>
+git remote -v
+git add
+git commit -m "First commit"
+git push origin master
+
+git help
+
+
+
+
